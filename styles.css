@@ -1,0 +1,20 @@
+.height-crousel {
+    height: 85vh;
+    padding-top: 0px;
+}
+.py-8 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.carousel-item {
+  height: 240px;
+}
+.carousel-control-prev {
+    max-width: 50px;
+}
+.root-project-name.navbar-light .navbar-nav .nav-link {
+    color: #0a58ca;
+}
+.root-project-name.navbar-light .navbar-nav .nav-link:hover {
+    color: #0d6efd;
+}
